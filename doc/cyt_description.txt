@@ -1,0 +1,22 @@
+%%%%%%%%%%%%%%%%%%%
+Tytuł
+System zdalnie sterowanych elektronicznych zamków do drzwi
+Remote controlled electronic door lock system
+
+Opis
+Celem pracy jest zaprojektowanie i zbudowanie systemu zdalnie sterowanych elektronicznych zamków do drzwi, który umożliwi użytkownikom kontrolę dostępu do
+pomieszczeń za pomocą aplikacji mobilnej. System będzie wykorzystywał nowoczesne
+technologie komunikacyjne, takie jak Bluetooth Low Energy (BLE) lub Wi-Fi, aby
+zapewnić bezpieczne i wygodne zarządzanie zamkami. Projekt obejmie zarówno aspekt
+sprzętowy (projektowanie i budowa zamków), jak i programistyczny (tworzenie oprogramowania do sterowania i zarządzania systemem).
+
+Przewidywany zakres prac obejmuje:
+• Analiza literatury oraz istniejących rozwiązań na rynku,
+• Określenie założeń projektowych i wymagań systemu,
+• Projekt i wykonanie schematu ideowego oraz płytki PCB,
+• Implementacja oprogramowania / oprogramowania wbudowanego dla zamków oraz
+aplikacji mobilnej,
+• Przeprowadzenie serii testów poprawności działania i wydajności,
+• Analiza wyników i podsumowanie,
+• Opracowanie dokumentacji technicznej i redakcja pracy dyplomowej
+%%%%%%%%%%%%%%%%%%%%%%%%%
