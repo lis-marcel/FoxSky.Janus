@@ -1,0 +1,24 @@
+boost dla silnika oraz serwa:
+	- TPS61087
+	
+buck-boost dla mcu:
+	- TPS63021
+	
+low side pcm:
+	- BQ2978
+	- tranzystory nmos - CSD17581Q3A
+	
+diver silnika: - dodac do schematu
+	- DRV8251A 
+	
+ladowanie ogniwa: - zmienic na schemacie
+	- BQ24040
+	- BQ21040
+	
+TODO:
+a) connectory:
+	- connector ogniwa
+	- connector przycisku
+	- connector silnika
+	- connector sprzegla
+	- connector konraktronu

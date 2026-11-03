@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=THHXJQZM
 
 [Document10]
-DocumentPath=FoxSky.Janus.OutJob
+DocumentPath=Janus.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AKXHXGIW
 
 [Configuration1]
 Name=Sources
