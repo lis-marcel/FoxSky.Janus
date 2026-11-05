@@ -219,6 +219,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKXHXGIW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FoxSky.Janus\Design Rule Check - Janus.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
